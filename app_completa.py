@@ -8,7 +8,7 @@ import plotly.express as px
 st.set_page_config(layout='wide')
 
 
-#Prueba 16.11
+#Prueba 2
 #-----------------------------------------------------------------------
 # Load the Dataset
 df = sns.load_dataset('tips')
