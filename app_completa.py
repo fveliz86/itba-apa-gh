@@ -7,9 +7,6 @@ import plotly.express as px
 # Set Page Layout
 st.set_page_config(layout='wide')
 
-
-# commit desde branch local
-
 #-----------------------------------------------------------------------
 # Load the Dataset
 df = sns.load_dataset('tips')
